@@ -69,7 +69,7 @@ I'm open to:
 - Learning together with the data community  
 
 📫 Reach me on:  
-[LinkedIn]([https://linkedin.com/in/your-profile](https://www.linkedin.com/in/kirankumarnc/)) | `kiran.nck@gmail.com`
+[LinkedIn](https://www.linkedin.com/in/kirankumarnc/) | `kiran.nck@gmail.com`
 
 ---
 

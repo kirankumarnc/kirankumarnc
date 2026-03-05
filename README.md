@@ -1,6 +1,6 @@
-# 👋 Hi, I’m Kiran Kumar
+#  Hi, I’m Kiran Kumar
 
-## 📌 About Me
+##  About Me
 
 Hi, I’m **Kiran Kumar**, a passionate **Data Enthusiast** focused on both **Analytics and Engineering**. With over 14 years of experience in the tech industry, 
 I’m now channeling my curiosity and problem-solving mindset into the world of data.
@@ -16,18 +16,18 @@ Whether it’s cleaning messy datasets, performing exploratory analysis, or prep
 
 ---
 
-🔍 **What drives me:**  
+ **What drives me:**  
 A constant curiosity to understand how data shapes decisions and how automation can scale impact.
 
-🧠 **What I’m working toward:**  
+ **What I’m working toward:**  
 Becoming a well-rounded data professional with the ability to contribute across **data analytics, business intelligence, and data engineering** workflows.
 
-🚀 **What I believe:**  
+ **What I believe:**  
 Good data leads to good decisions. Great data leads to growth.
 
 ---
 
-## 📚 Currently Learning
+##  Currently Learning
 
 I'm actively strengthening my core data skills and building a solid foundation in both analytics and engineering principles. My current learning focus includes:
 
@@ -48,7 +48,7 @@ I'm actively strengthening my core data skills and building a solid foundation i
 
 ---
 
-## 🧰 Skills
+##  Skills
 
 - **Languages & Tools:**  
   `SQL` | `Python (pandas)` | `Power BI`
@@ -61,14 +61,14 @@ I'm actively strengthening my core data skills and building a solid foundation i
 
 ---
 
-## 🤝 Let's Connect
+##  Let's Connect
 
 I'm open to:
 - Collaborating on analytics or portfolio projects  
 - Contributing to open datasets or case studies  
 - Learning together with the data community  
 
-📫 Reach me on:  
+ Reach me on:  
 [LinkedIn](https://www.linkedin.com/in/kirankumarnc/) | `kiran.nck@gmail.com`
 
 ---
